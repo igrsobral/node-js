@@ -14,7 +14,6 @@ class OneToHundredStream extends Readable{
         this.push(buff)
       }
     }, 1000)
-
   }
 }
 
